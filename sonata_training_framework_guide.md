@@ -227,7 +227,7 @@ Explain why. Then, propose one modification to the process that would reduce fri
 | @IdeaMapper | Conceptual Mapping | Improved axiom tracing in political theory |
 | @Ethos | Ethical Inference | Enhanced detection of value drift in policy models |
 
-> All units referenced are defined in `unit_roster_behavior_prompts.txt`
+> All units referenced are defined in `unit_roster_behavior_prompts.md`
 
 ---
 
