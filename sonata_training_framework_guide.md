@@ -242,7 +242,7 @@ Explain why. Then, propose one modification to the process that would reduce fri
 
 ## **9. File Integrity**
 
-This file: `sonata_training_framework_guide.txt`  
+This file: `sonata_training_framework_guide.md`  
 Last updated: **2025-12-05 17:02:58 UTC**  
 Authoritative source for all future implementations.
 
